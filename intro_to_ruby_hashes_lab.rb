@@ -55,6 +55,6 @@ def monopoly_with_fourth_tier
 			},
 		},
 }
-[:railroads][:names][:reading_railroad]["mortgage_value"] = "$100"
+myHash.[:railroads][:names][:reading_railroad]["mortgage_value"] = "$100"
 myHash
 end
